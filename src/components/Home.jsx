@@ -48,7 +48,7 @@ Get Started
 <div className="relative mx-auto w-full max-w-md">
 <div className="absolute -inset-4 rounded-3xl bg-white/10 blur-2xl"></div>
 <img
-src="./work.png"
+src="https://static.vecteezy.com/system/resources/thumbnails/035/592/452/small/businessmen-team-brainstorming-and-discussing-at-office-meeting-flat-design-character-png.png"
 alt=""
 className="relative z-10 w-full rounded-3xl object-contain"
 />
