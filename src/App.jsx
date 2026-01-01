@@ -4,6 +4,9 @@ import './App.css'
 import './index.css'
 import Navbar from './components/Navbar.jsx'
 import Home from './components/Home.jsx'
+import About from './components/About.jsx'
+import Service from './components/Service.jsx'
+import Footer from "./components/Footer";
 // import { Home } from 'lucide-react'
 
 function App() {
@@ -14,6 +17,9 @@ function App() {
    
 <Navbar/>
 <Home/>
+<Service/>
+<About/>
+<Footer/>
      
     </>
   )

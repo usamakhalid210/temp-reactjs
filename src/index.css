@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+
+body{
+
+  font-family: "Ubuntu Sans", sans-serif;
+  font-optical-sizing: auto;
+
+
+}

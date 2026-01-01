@@ -21,9 +21,9 @@ export default function Navbar() {
           {/* Desktop Links */}
           <ul className="hidden md:flex items-center gap-10 text-sm text-white/70">
             {links.map((link) => (
-              <li
+              <li       
                 key={link}
-                className="group relative cursor-pointer transition-all duration-500  hover:scale-110  rounded-lg shadow-xl/13 inset-shadow-sm/10 px-2 py-1 hover:shadow-xl/30   hover:inset-shadow-sm/10 bg-black/5  "
+                className="group relative cursor-pointer transition-all duration-500  hover:scale-110  rounded-lg shadow-xl/13 inset-shadow-sm/10 px-2 py-1 hover:shadow-xl/30   hover:inset-shadow-sm/10 bg-black/5   "
               >
                 <span className="transition-colors duration-300 group-hover:text-white   ">
                   {link}

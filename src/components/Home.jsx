@@ -7,7 +7,7 @@ import '../index.css'
 
 export default function Hero() {
 return (
-<section className="relative min-h-screen w-full bg-gradient-to-b from-black/10  via-black/40 to-black/90 text-white">
+<section className="relative min-h-screen w-full bg-linear-to-b from-black/10 to-black/70 text-white">
 <div className="mx-auto max-w-7xl px-6 pt-40 pb-20">
 <div className="grid grid-cols-1 items-center gap-14 md:grid-cols-2">
 {/* Left Content */}
@@ -20,7 +20,7 @@ return (
 <h1 className="text-4xl font-bold leading-tight md:text-6xl">
 Hi, I’m <span className="text-white/90">Usama</span>
 <br />
-<span className="bg-gradient-to-r from-white to-white/60 bg-clip-text text-transparent">
+<span className="bg-linear-to-r from-white to-white/60 bg-clip-text text-transparent">
 Web Developer
 </span>
 </h1>
@@ -42,7 +42,7 @@ Get Started
 </button>
 </div>
 </div>
-
+{/* 194858 */}
 
 {/* Right Image */}
 <div className="relative mx-auto w-full max-w-md">
